@@ -16,8 +16,4 @@ public abstract class Node {
     public int getYCoord() {return yCoord;}
     public void setYCoord(int yCoord) {this.yCoord = yCoord;}
 
-    // Methods.
-
-    // Super method for safe subclass.
-
 }
